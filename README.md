@@ -2,7 +2,7 @@
 과제용
 
 ------------------------------------------------------
-1. 맨처음에 ctrl + F5를 눌러서 python debug console이 실행되게 한다.
+1. 맨처음에 아무 .py파일에 ctrl + F5를 눌러서 python debug console이 실행되게 한다.
 
 2. python debug console에 python -m venv venv 입력
 
