@@ -10,7 +10,7 @@
 
 4. activate.bat실행 --> activate.bat 입력(가상환경 진입)
 
-5. requirements.txt가 있는 위치로 이동(myproject폴더)
+5. requirements.txt가 있는 위치로 이동(myproject폴더) --> cd .../myproject
 
 6. 패키지 설치 pip install -r requirements.txt
 
