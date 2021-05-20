@@ -10,6 +10,7 @@
 ------------------------------------------------------
 
 환경변수를 설정 안하는 경우
+
 1-2. FLASK_APP = pybo, FLASK_DEV = development입력
 1-3. cd venv가 있는 폴더 --> .../venv/Scripts까지 와서 activate.bat 실행
 2. config.py가 있는 폴더로 이동 --> .../myproject
