@@ -8,8 +8,8 @@
 4. activate.bat실행 --> activate.bat 입력(가상환경 진입)
 5. requirements.txt가 있는 위치로 이동(myproject폴더)
 6. 패키지 설치 pip install -r requirements.txt
-7. 환경변수 입력
-set FLASK_APP=pybo
-set FLASK_ENV=development
+7. *환경변수 입력
+*set FLASK_APP=pybo
+*set FLASK_ENV=development
 8. 프로젝트 파일(config.py가 있는 위치로 cd)로 이동 cd .../myproject
 9.flask run 입력
