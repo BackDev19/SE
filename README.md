@@ -23,3 +23,5 @@
 8. 프로젝트 파일(config.py가 있는 위치로 cd)로 이동 cd .../myproject
 
 9. flask run 입력
+
+** sqlite 설치할 것 **
